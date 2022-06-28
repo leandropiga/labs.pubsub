@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1+u5b1pFifQupIz31JuP5oZMWnevumvq9b8K5KxqtU4=",
+  "Source": "labs.pubsub.database",
+  "BasePath": "_content/labs.pubsub.database",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

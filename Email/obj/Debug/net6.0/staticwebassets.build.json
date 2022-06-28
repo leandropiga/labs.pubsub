@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I761fSfLRvPBVv3SwP34n+WV7u0GVGY7nHJ1vKOMVEM=",
+  "Source": "labs.pubsub.email",
+  "BasePath": "_content/labs.pubsub.email",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
